@@ -25,7 +25,7 @@
             application.homeurl = req_url & currentDirectory;
             application.secureurl=req_url & currentDirectory  
             // API CREDENTIALS 
-            application.api_key = "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"; 
+            application.api_key = "Your key here"; 
             application.apiURL="https://api.openai.com/v1/engines/"
         </cfscript>
     </cffunction>
